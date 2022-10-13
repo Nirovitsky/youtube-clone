@@ -336,6 +336,9 @@ nav {
   .container2 {
     min-width: 8%;
   }
+  #home-button:hover {
+    background-color: rgb(229, 227, 227);
+  }
   .container2 button {
     flex-direction: column;
     padding: 10px 0;
